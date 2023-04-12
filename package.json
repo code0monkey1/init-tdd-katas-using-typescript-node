@@ -4,7 +4,8 @@
   "description": "1. Create a new directory for your project and navigate to it in the terminal.",
   "main": "index.js",
   "scripts": {
-    "test": "jest  --passWithNoTests"
+    "test": "jest  --passWithNoTests",
+    "tdd" : "jest --watchAll --verbose "
   },
   "keywords": [],
   "author": "",
