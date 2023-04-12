@@ -44,7 +44,8 @@ typescript is the programming language we will be using`ts-jest`is a package tha
 
 1. Create a 
 `jest.config.js` 
- file in the root directory of your project with the following ~configuration command:
+ file in the root directory of your project with the following ~configuration command:   
+ `npx ts-jest config:init`
 
     <!-- ```json
      

@@ -4,7 +4,7 @@
   "description": "1. Create a new directory for your project and navigate to it in the terminal.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest src/*.js"
   },
   "keywords": [],
   "author": "",
