@@ -44,9 +44,9 @@ typescript is the programming language we will be using`ts-jest`is a package tha
 
 1. Create a 
 `jest.config.js` 
- file in the root directory of your project with the following configuration:
+ file in the root directory of your project with the following ~configuration command:
 
-    ```json
+    <!-- ```json
      
        module.exports = {
          preset: 'ts-jest',
@@ -65,7 +65,7 @@ typescript is the programming language we will be using`ts-jest`is a package tha
       + `testMatch`:
        specifies the pattern for test files.
       +`moduleNameMapper`:
-       maps module names to file paths.
+       maps module names to file paths. -->
 
 1. Create a src
  directory in the root directory of your project.
